@@ -1,5 +1,6 @@
-let marks =75;
-// if (marks>=33 && marks>=80){
-//     console.log("Pass");
-//     console.log("A+");
+
+// function rolDice(){
+//     let rand = Math.floor(Math.random()*6)+1;
+//     console.log(rand);
 // }
+// rolDice();
