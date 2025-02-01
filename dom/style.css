@@ -1,0 +1,29 @@
+
+body{
+    font-family: Arial;
+}
+#manImg {
+    width:35%
+}
+.green{
+    color: green;
+}
+.box{
+    border: 0.25px solid black;
+    background-color: yellow;
+    width: 200px;
+    padding: 1rem;
+}
+
+.boxLink{
+    text-decoration: none;
+}
+
+.oldImg {
+    height: 200px;
+    width:200px;
+    margin-left: 1rem;
+}
+#description{
+    background-color: antiquewhite;
+}
