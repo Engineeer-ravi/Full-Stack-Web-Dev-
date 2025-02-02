@@ -80,3 +80,18 @@
 //appendChild(Element)
 //prepend(element)
 //insertAdjacent(where, element)
+
+
+//removing Element
+
+//removeChild(element)
+//remove(element)
+
+
+//prectice Question
+
+// let para1 = document.createElement('p');
+// para.innerText = "Hello World";
+// document.querySelector('body').append(para1);
+
+
