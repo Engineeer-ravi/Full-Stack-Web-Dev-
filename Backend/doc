@@ -1,0 +1,27 @@
+
+
+
+// Node.Js-Javascript Runtime Environment it is used for server side programing
+// Node.js is not langauage it is a library or framework
+
+
+// node REPL - Read Evaluate Print Loop
+// .help gives us command
+
+
+
+
+
+//Proccess: This object  provides information about, and control over, the current Node js proccess 
+
+
+//process.argv::returns an array containing the command-line argument passed when the node.js process  was launched
+
+
+
+//module.exports
+//requiring files 
+
+//require() a built in function to include external module that exist in seprate file
+
+//module.exports  A special object that is used to export the value of a module so that it can be used in another module
