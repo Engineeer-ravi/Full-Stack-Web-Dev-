@@ -10,10 +10,16 @@
 
 // console.log(process.argv);
 
-const math = require("./math");
+// const math = require("./math");
 
 
-console.log(math.sum(2,3));
-console.log(math.PI);
-console.log(math.g);
-console.log(math.mul(3,6));
+// console.log(math.sum(2,3));
+// console.log(math.PI);
+// console.log(math.g);
+// console.log(math.mul(3,6));
+
+//add fronted to backend
+
+const info = require("./Fronted");
+
+console.log(info);
