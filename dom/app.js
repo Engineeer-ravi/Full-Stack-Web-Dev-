@@ -95,3 +95,8 @@
 // document.querySelector('body').append(para1);
 
 
+
+a=5;
+b=8;
+c=a+b;
+console.log(c);
