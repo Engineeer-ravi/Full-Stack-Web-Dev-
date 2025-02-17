@@ -20,6 +20,8 @@
 
 //add fronted to backend
 
-const info = require("./Fronted");
+const info = require("./Fruits");
 
 console.log(info);
+
+// then restart 0000000
