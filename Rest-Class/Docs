@@ -1,0 +1,11 @@
+
+REST- Representation State trensfer
+
+Rest is an architecture style that define a set of constraints to be used for creating web service 
+
+CRUD Opretions-
+Get retrives resources
+Post submits new data to the server
+PUT updates existing data 
+PATCH  update existing data partially
+DELETE removes data
