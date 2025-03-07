@@ -9,3 +9,9 @@ Post submits new data to the server
 PUT updates existing data 
 PATCH  update existing data partially
 DELETE removes data
+
+Create id for posts
+UUID package
+university unique identifier
+
+npm install uuid
